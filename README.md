@@ -4,6 +4,8 @@ An endless-runner game written in **C with Raylib** and compiled to **WebAssembl
 
 Built for the *Principles of Programming* module (BSc Computer Science, UWE Bristol).
 
+**▶ [Play it in your browser](https://sojib-hosain.github.io/Ski-Runner/)**: press Enter to start, and Space or Up to jump.
+
 ## Gameplay
 
 Ski downhill for as long as you can, jumping over trees and rocks and collecting coins. Hold jump for extra height. Your best score is saved as the high score.
